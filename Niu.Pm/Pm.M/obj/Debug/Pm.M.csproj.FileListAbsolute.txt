@@ -1,0 +1,4 @@
+D:\F\接口\study\git\Niu.Pm\Niu.Pm\Pm.M\bin\Debug\Pm.M.dll
+D:\F\接口\study\git\Niu.Pm\Niu.Pm\Pm.M\bin\Debug\Pm.M.pdb
+D:\F\接口\study\git\Niu.Pm\Niu.Pm\Pm.M\obj\Debug\Pm.M.dll
+D:\F\接口\study\git\Niu.Pm\Niu.Pm\Pm.M\obj\Debug\Pm.M.pdb

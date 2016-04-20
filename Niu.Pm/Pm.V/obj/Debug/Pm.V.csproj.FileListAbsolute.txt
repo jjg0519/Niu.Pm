@@ -1,0 +1,9 @@
+D:\F\接口\study\git\Niu.Pm\Niu.Pm\Pm.V\obj\Debug\Pm.V.csprojResolveAssemblyReference.cache
+D:\F\接口\study\git\Niu.Pm\Niu.Pm\Pm.V\bin\Debug\Pm.V.dll
+D:\F\接口\study\git\Niu.Pm\Niu.Pm\Pm.V\bin\Debug\Pm.V.pdb
+D:\F\接口\study\git\Niu.Pm\Niu.Pm\Pm.V\bin\Debug\TaskPlugin.dll
+D:\F\接口\study\git\Niu.Pm\Niu.Pm\Pm.V\bin\Debug\TaskPlugin.pdb
+D:\F\接口\study\git\Niu.Pm\Niu.Pm\Pm.V\obj\Debug\Pm.V.dll
+D:\F\接口\study\git\Niu.Pm\Niu.Pm\Pm.V\obj\Debug\Pm.V.pdb
+D:\F\接口\study\git\Niu.Pm\Niu.Pm\Pm.V\bin\Debug\Pm.M.dll
+D:\F\接口\study\git\Niu.Pm\Niu.Pm\Pm.V\bin\Debug\Pm.M.pdb
